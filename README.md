@@ -10,3 +10,4 @@ This is a Money Heist website created by me........If you want to see it then yo
 .
 .
 Hope you like it ❤️❤️❤️
+Or simply click paste it on browser https://money-heist-hazel.vercel.app/
