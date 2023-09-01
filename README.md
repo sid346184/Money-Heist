@@ -18,7 +18,7 @@ To run this project, you will need the following:
 1. Clone the repository to your local machine.
 
 ```
-git clone https://github.com/siddhant-gupta-a2809024b/bella-ciao.git
+git clone https://github.com/sid346184/Money-Heist.git
 ```
 
 2. Install the dependencies.
