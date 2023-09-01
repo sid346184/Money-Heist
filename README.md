@@ -61,4 +61,4 @@ npm start
 * `moscow.gif`: The animated GIF of Tokyo.
 
 Hope you like it.
-  ```
+  
