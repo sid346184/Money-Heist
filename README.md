@@ -1,4 +1,3 @@
- ```
 # Bella Ciao
 
 This is a fan-made website for the popular Netflix series "Money Heist". 
