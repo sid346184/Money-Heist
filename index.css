@@ -1,5 +1,5 @@
 #navbar-background{
-    width: 100%;
+    width: 500%;
 }
 
 #navbar{
@@ -507,12 +507,11 @@ p{
     box-sizing: border-box;
     box-shadow: 0px 0px 20px rgba(223, 236, 231, 0.726);
     transition: border-color 0.4s ease,box-shadow 0.4s ease;
+    padding-bottom: 10px;
 }
 #credit:hover{
     box-shadow: 0px 0px 20px rgba(0, 255, 149, 0.726);
-    
     border-color: rgba(0, 255, 149, 0.726); 
-
 }
 #credit h3{
     transition:color 0.4s ease;
@@ -523,13 +522,10 @@ p{
 .social-links {
     display: flex;
     justify-content: center;
-    gap:20px;
+    gap:15px;
 }
-.social-links a{
-    text-decoration: none;
-    color: aliceblue;
-    transition: color 0.4s ease;
-}
-.social-links a:hover{
-    color:aqua;
+
+.social-links img {
+    filter: invert(1);
+    width:20px;
 }
