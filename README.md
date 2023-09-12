@@ -58,6 +58,7 @@ npm start
 * `nairobi.gif`: The animated GIF of Nairobi.
 * `denver.gif`: The animated GIF of Denver.
 * `moscow.gif`: The animated GIF of Tokyo.
+* `tranparent-logo (1).png`: The logo of the website.
 
 Hope you like it.
   
