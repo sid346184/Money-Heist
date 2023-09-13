@@ -1,5 +1,5 @@
 #navbar-background{
-    width: 500%;
+    width: 100%;
 }
 
 #navbar{
@@ -53,8 +53,6 @@ body{
     transition: border-color 0.4s ease,box-shadow 0.4s ease;
 }
 
-
-
 #container{
     margin: 1em;
     display:flex;
@@ -90,8 +88,8 @@ body{
     position: absolute;
     width: 1px;
     height: 1px;
-    border-radius: 50%;
-   
+    border-radius: 200%;
+    filter: opacity(.7);
     animation: dot-animation 2.5s ease-in-out infinite;
 }
 
