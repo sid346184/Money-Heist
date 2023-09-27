@@ -376,6 +376,7 @@ p{
 .card:hover .text p{
     background-color: transparent;
     opacity:0;
+    font-size:0px;
 }
 @keyframes professor-gif {
     from {
