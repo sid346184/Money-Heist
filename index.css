@@ -364,6 +364,10 @@ img{
 p{
     text-align: center;
     font-size: xx-small;
+    -webkit-user-select: none;  
+    -moz-user-select: none;     
+    -ms-user-select: none;      
+    user-select: none; 
 }
 .card:hover{
     box-shadow: 0px 0px 30px rgba(0, 255, 149, 0.726);
@@ -374,6 +378,10 @@ p{
 }
 
 .card:hover .text p{
+    -webkit-user-select: none;  
+    -moz-user-select: none;     
+    -ms-user-select: none;      
+    user-select: none; 
     background-color: transparent;
     opacity:0;
     font-size:0px;
